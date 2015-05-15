@@ -7,6 +7,10 @@ def hello():
 	print 'hello world'
 
 
+def world():
+	print 'world'
+
+
 if __name__ == '__main__':
 	hello()
 
