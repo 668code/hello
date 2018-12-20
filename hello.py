@@ -4,13 +4,14 @@
 
 def hello():
 	"""this is a test function"""
-	print 'hello world'
+	print('hello world')
 
 
 def world():
-	print 'world'
+	print('world')
 
 
 if __name__ == '__main__':
 	hello()
+	world()
 
